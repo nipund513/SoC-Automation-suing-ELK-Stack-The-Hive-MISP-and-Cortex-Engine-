@@ -1,0 +1,1 @@
+# SoC-Automation-suing-ELK-Stack-The-Hive-MISP-and-Cortex-Engine-
